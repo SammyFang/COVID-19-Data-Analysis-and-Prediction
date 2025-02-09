@@ -12,6 +12,8 @@ This project explores COVID-19 data, focusing on confirmed cases, deaths, and re
 - **Data Visualization**: Generates interactive plots and charts using Matplotlib, Seaborn, and Plotly.
 - **Machine Learning Predictions**: Implements Random Forest for forecasting infections and fatalities.
 - **Geospatial Analysis**: Uses Plotly to visualize infection and mortality rates over time.
+![image](https://github.com/user-attachments/assets/eb9b3f15-5754-46d8-9c28-864d1cde5945)
+![image](https://github.com/user-attachments/assets/81565809-761a-40a9-8d98-84a14e1ec5e9)
 
 ## Dataset Sources
 
